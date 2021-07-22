@@ -1,1 +1,2 @@
-Entering through git bash
+Entering through git bash 
+Now modifing it
